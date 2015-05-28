@@ -18,5 +18,5 @@ Now with this instance service can communicate with activity. I am just showing 
 
 #How to use?
 Just download the code and import to Eclipse as two separate applications.
-Install the MyService and than install the MyIpaActivity. The Service must be running in the phone while launching MyIpaActivity and you'll see a Toast message showing Hello from Service and then another toast Hello from Activity.
+Install the MyService and than install the MyIpcActivity. The Service must be running in the phone while launching MyIpcActivity and you'll see a Toast message showing Hello from Service and then another toast Hello from Activity.
 
